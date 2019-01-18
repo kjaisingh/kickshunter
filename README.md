@@ -5,9 +5,8 @@ The current script and application for KicksHunter has been trained on five diff
 
 # Demonstration
 Images of the working application can be seen below:
-![Yeezy](Utilities/Demo1.PNG =250x250)
-
-![AirJordan](Utilities/Demo2.PNG | width=100)
+<img src="Utilities/Demo1.PNG" width="400" height="864">
+<img src="Utilities/Demo2.PNG" width="400" height="864">
 
 
 # Files
