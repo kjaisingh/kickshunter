@@ -5,8 +5,8 @@ The current script and application for KicksHunter has been trained on five diff
 
 # Demonstration
 Images of the working application can be seen below:
-<img src="Utilities/Demo1.PNG" width="400" height="864">
-<img src="Utilities/Demo2.PNG" width="400" height="864">
+<img src="Utilities/Demo1.PNG" width="300" height="648">
+<img src="Utilities/Demo2.PNG" width="300" height="648">
 
 
 # Files
