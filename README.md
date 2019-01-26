@@ -5,8 +5,10 @@ The current script and application for KicksHunter has been trained on five diff
 
 # Demonstration
 Images of the working application can be seen below:
-![Yeezy](Utilities/Demo1.PNG)
-![AirJordan](Utilities/Demo2.PNG)
+
+
+<img src="Utilities/Demo1.PNG" width="300" height="648">
+<img src="Utilities/Demo2.PNG" width="300" height="648">
 
 
 # Files
@@ -27,6 +29,9 @@ mkdir dataset
 ```
 
 To download and create a sub-database for each shoe:
+```
+mkdir dataset/<shoe-model-name>
+```
 ```
 python search_bing_api.py --query <"shoe model name"> --output dataset/<shoe-model-name>
 ```

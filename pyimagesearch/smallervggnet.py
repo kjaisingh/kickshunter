@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun May 13 10:22:54 2018
-
 @author: KaranJaisingh
 """
 from keras.models import Sequential
