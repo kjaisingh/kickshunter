@@ -30,6 +30,7 @@ mkdir dataset
 
 To download and create a sub-database for each shoe:
 ```
+mkdir dataset/<shoe-model-name>
 python search_bing_api.py --query <"shoe model name"> --output dataset/<shoe-model-name>
 ```
 To acheive this, one must also change the API Key listed in 'search_bing_api.py' to a valid one.
